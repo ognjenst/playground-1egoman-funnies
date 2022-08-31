@@ -19,6 +19,7 @@
       "core-js": "^3.20.3",
       "cx": "^21.12.0",
       "cx-react": "^17.10.0",
+      "funnies": "^2.1.0",
       "heroicons": "^1.0.5",
       "prosemirror-example-setup": "^1.1.2",
       "prosemirror-markdown": "^1.7.0",
